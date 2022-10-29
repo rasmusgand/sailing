@@ -1,3 +1,7 @@
+# foreninger
+
+- https://dansketursejlere.dk
+
 # sailing
 
 - https://soesport.dk/
